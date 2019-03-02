@@ -2,7 +2,7 @@
   padding:0px;}
   
 .container{margin:0 auto; 
- padding: 20px 0;
+ padding: 0px 0;
 	width:1280px;
 min-height:600px;
 background:#f5f5f5;
@@ -87,10 +87,33 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
 				  float:right;
 			background-color:#445161;
                 }						 
-								 
+				.blocktwo{background:#f5f5f5;
+					      height:245px;}				 
 	
-	
-	
+	    .Shed{
+		  font-family: Arial;
+           color:  #445161;
+          font-size:30px;
+           font-weight:400;
+           line-height:105px;
+              text-align:center;}
+			  .blockA{margin-left:50px;
+				  display:inline-block;
+			     float:left;
+				  width:565px;
+			  }
+			  .blockB{margin-left:23px;
+				  display:inline-block;
+			        float:left;
+					 width:565px;
+			  }
+	             .styA{font-family:Arial;
+                     color:#333333;
+                          font-size:16px;
+                               font-weight:400;
+                                   line-height:24px;
+                                           text-align:justify;
+					background-image:url(img/ShapeA.png);}
 	
 	
 	
