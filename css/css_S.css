@@ -1,21 +1,23 @@
 *{margin:0px;
   padding:0px;}
-.container{width:1280px;
-margin:0 auto; 
-background:#f5f5f5;}
+  
+.container{margin:0 auto; 
+ padding: 20px 0;
+	width:1280px;
+min-height:600px;
+background:#f5f5f5;
+ }
 
 .hed{
 	height:323px;
     background:#445162;}
 	.backg{position:relative;
 	        margin-left:50px;
-
         	width:1180px;
              height:300px;
 	          background-color:#445161;
 				/*outline:1px solid red;*/}
 	.slog  h2 {margin-top:50px;
-		
 		float:left;
 		font-family: Arial;
 color:#ffffff;
@@ -28,12 +30,12 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
 	
 	
 .spis {margin:0px;
-          display:block;
+        display:block;
 	position:absolute;
              top:120px;
 			 left:30px;
              }
-	.slog  li{font-family: Arial;
+	.slog  li{font-family:Arial;
 color:  #ffffff;
 font-size: 20px;
 font-weight: 400;
