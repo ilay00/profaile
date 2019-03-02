@@ -99,22 +99,28 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
               text-align:center;}
 			  .blockA{margin-left:50px;
 				  display:inline-block;
-			     float:left;
-				  width:565px;
+			    
+				  width:550px;
+				  
+			  }
+			  .blockAs{margin-left:0px;
+				 
 			  }
 			  .blockB{margin-left:23px;
 				  display:inline-block;
-			        float:left;
-					 width:565px;
+			       
+					 width:550px;
+					
 			  }
-	             .styA{font-family:Arial;
+	             .styA   {
+					 font-family:Arial;
                      color:#333333;
                           font-size:16px;
                                font-weight:400;
                                    line-height:24px;
                                            text-align:justify;
-					background-image:url(img/ShapeA.png);}
-	
+					
+				 }
 	
 	
 	
