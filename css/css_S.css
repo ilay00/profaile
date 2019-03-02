@@ -1,4 +1,5 @@
-
+*{margin:0px;
+  padding:0px;}
 .container{width:1280px;
 margin:0 auto; 
 background:#f5f5f5;}
@@ -11,7 +12,7 @@ background:#f5f5f5;}
         	width:1180px;
              height:300px;
 	          background-color:#445161;
-				/*outline:1px solid red;*/}
+				outline:1px solid red;}
 	.slog  h2 {margin-top:50px;
 		
 		float:left;
@@ -29,7 +30,7 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);
           display:block;
 	position:absolute;
              top:120px;
-			 left:0px;
+			 left:30px;
              }
 	.slog  li{font-family: Arial;
 color:  #ffffff;
@@ -46,3 +47,21 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
                 height: 214px;
 				background-color:#ffffff;}
 	.FloatFigure{background:red;}
+	
+	.content{margin:0px auto;}
+	.atia{background:#fff;}
+     	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
