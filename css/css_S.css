@@ -50,7 +50,25 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
 	
 	.content{margin:0px auto;}
 	.atia{background:#fff;}
-     	
+	.headS{padding-top:49px;
+	      padding-left:50px;
+		  font-family: Arial;
+color:  #445161;
+font-size: 30px;
+font-weight: 400;
+line-height: 36px;
+text-align: left;}
+     	 .pblo {padding-top:20px;
+	             padding-left:50px;
+				 display:inline-block;
+				 width:380px;
+             height:150px;
+				 font-family: Arial;
+                    color:  #333333;
+                  font-size: 16px;
+                font-weight: 400;
+                 line-height: 24px;
+             text-align: left;}
 	
 	
 	
