@@ -49,8 +49,10 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
 	.FloatFigure{background:red;}
 	
 	.content{margin:0px auto;}
-	.atia{background:#fff;}
-	.headS{padding-top:49px;
+	.atia{display:inline;
+		background:#fff;}
+	.headS{
+		padding-top:49px;
 	      padding-left:50px;
 		  font-family: Arial;
            color:  #445161;
@@ -58,13 +60,17 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
            font-weight:400;
            line-height: 36px;
               text-align: left;}
-
-     	 .pblo {margin-top:30px;
+           .text_b{display:inline-block;
+		              
+		              width:50%;
+					  }
+     	 .pblo {
 		        margin-bottom:10px;
-			 margin-left:50px;
-			 float:left;
-				 width:670px;
-             height:50px;
+			/* margin-left:50px;*/
+			 
+			 
+				
+            
 				 font-family: Arial;
                     color:  #333333;
                   font-size: 16px;
@@ -72,6 +78,11 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
                  line-height: 24px;
              text-align: left;
 			                     }
+		.vid{
+			background-color:#445161;
+                 width:430px;
+                   height:245px;}						 
+								 
 	
 	
 	
