@@ -92,7 +92,9 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
 					      height:407px;}	
 .blockfre{
 					background:#fff;
-					      height:407px;}						  
+					      height:470px;}					.blockfo{
+					background:#f5f5f5;
+					      height:407px;}	  
 	
 	    .Shed{
 		/*outline:1px solid black;*/
@@ -218,3 +220,38 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 text-align:justify;}
+
+
+.setCC{margin-top:25px;
+						margin-left:50px;
+			  position:relative;
+				  display:inline-block;
+				    float:left;
+			        width:560px;}
+
+
+
+
+.imgB{float:left;
+		    }
+.pcA{background:url(../img/bew.png)no-repeat;
+position:relative;
+		    left:150px;
+			width: 483px;
+            height: 121px;
+font-family: Arial;
+color:  #333333;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align:justify;
+}
+
+
+
+
+
+
+
+
+
