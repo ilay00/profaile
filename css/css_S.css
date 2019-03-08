@@ -226,7 +226,7 @@ text-align:justify;}
 		    }
 			.imgc{
 	
-margin-left:0px;
+margin-left:32px;
 	float:left;
 
 		    }
@@ -234,19 +234,19 @@ margin-left:0px;
 .setCC{margin-left:16px;
      
 background:url(../img/bew.png)no-repeat;
-width: 483px;
+
 height: 121px;
     position:relative;
 	    top:5px;
 float:left;
-			  width:518px;
+			  width:483px;
 					
 }
 
 .setCD{margin-left:16px;
-       
+       margin-bottom:24px;
 background:url(../img/bew.png)no-repeat;
-width: 483px;
+
 height: 121px;
    
 	   
@@ -282,73 +282,7 @@ text-align: left;}
 			
 			
 			
-.pcA{margin:0px;
-      
-	
-	width:583px;
-            height:121px;
-position:relative;
-		    left:95px;
-			outline:1px solid black;
-font-family: Arial;
-color:  #333333;
-font-size: 14px;
-font-style: italic;
-line-height: 18px;
-text-align:justify;
-}
-.ytr{position:relative;
-		    left:0px;
-			outline:1px solid black;
-font-family: Arial;
-color:  #333333;
-font-size: 14px;
-font-style: italic;
-line-height: 18px;
-text-align:justify;}
 
-/*.cur{
-	position:relative;
-	     top:-45px;
-	      left:165px;
-	font-family: Arial;
-color:  #989898;
-font-size: 14px;
-font-weight: 400;
-line-height: 18px;
-text-align: left;}*/
-
-.setCB{margin-top:25px;
-						margin-left:46px;
-			  position:relative;
-				  display:inline-block;
-				    float:left;
-			        width:760px;}
-
-/*.pcB{background:url(../img/bew.png)no-repeat;
-position:relative;
-		    left:91px;
-			width: 483px;
-            height: 121px;
-font-family: Arial;
-color:  #333333;
-font-size: 14px;
-font-style: italic;
-line-height: 18px;
-text-align: left;
-}
-.cur{
-	position:relative;
-	      left:100px;
-	font-family: Arial;
-color:  #989898;
-font-size: 14px;
-font-weight: 400;
-line-height: 18px;
-text-align: left;}
-
-
-*/
 
 
 
