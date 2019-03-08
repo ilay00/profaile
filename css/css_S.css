@@ -220,24 +220,47 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 text-align:justify;}
+.imgB{
+	margin-left:50px;
+	float:left;
+		    }
+			.imgc{
+	
+margin-left:0px;
+	float:left;
 
+		    }
 
-.setCC{margin-top:25px;
-						margin-left:20px;
+.setCC{margin-left:16px;
+     
 background:url(../img/bew.png)no-repeat;
 width: 483px;
 height: 121px;
-			  position:relative;
-			  
-				  display:inline-block;
-				    float:left;
-			        width:570px;
+    position:relative;
+	    top:5px;
+float:left;
+			  width:518px;
 					
 }
+
+.setCD{margin-left:16px;
+       
+background:url(../img/bew.png)no-repeat;
+width: 483px;
+height: 121px;
+   
+	   
+float:left;
+			  width:500px;
+		/*outline:1px solid red;*/			
+}
+
+
 .txta{padding-top:16px;
        padding-left:27px;
 	  width:430px;
-	font-family: Arial;
+	  float:left
+	font-family:Arial;
 	color:#333333;
 font-size: 14px;
 font-style: italic;
@@ -255,10 +278,7 @@ font-weight: 400;
 line-height: 18px;
 text-align: left;}
 
-.imgB{margin-top:35px;
-	margin-left:50px;
-	float:left;
-		    }
+
 			
 			
 			
