@@ -280,13 +280,31 @@ line-height: 18px;
 text-align: left;}
 
 
-.blockfa{outline:1px solid black;
+.blockfa{
+	background:#fff;
+	outline:1px solid black;
 width: 1280px;
 height: 656px;
 
 }			
-			
-			
+	.fa_blockA{
+		width: 300px;
+        height: 306px;
+		background:#425062;
+		
+	}		
+			.fa_blockB{
+		width: 300px;
+         height: 404px;
+		background:#425062;
+		
+	}	
+     		.fa_blockC{
+		width: 300px;
+          height: 499px;
+		background:#425062;
+		
+	}	
 
 
 
