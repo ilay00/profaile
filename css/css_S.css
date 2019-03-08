@@ -94,7 +94,8 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
 					background:#fff;
 					      height:470px;}					.blockfo{
 					background:#f5f5f5;
-					      height:407px;}	  
+					      height:407px;
+						  }	  
 	
 	    .Shed{
 		/*outline:1px solid black;*/
@@ -220,24 +221,47 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 text-align:justify;}
+.imgB{
+	margin-left:50px;
+	float:left;
+		    }
+			.imgc{
+	
+margin-left:32px;
+	float:left;
 
+		    }
 
-.setCC{margin-top:25px;
-						margin-left:20px;
+.setCC{margin-left:16px;
+     
 background:url(../img/bew.png)no-repeat;
-width: 483px;
+
 height: 121px;
-			  position:relative;
-			  
-				  display:inline-block;
-				    float:left;
-			        width:570px;
+    position:relative;
+	    top:5px;
+float:left;
+			  width:483px;
 					
 }
+
+.setCD{margin-left:16px;
+       margin-bottom:24px;
+background:url(../img/bew.png)no-repeat;
+
+height: 121px;
+   
+	   
+float:left;
+			  width:500px;
+		/*outline:1px solid red;*/			
+}
+
+
 .txta{padding-top:16px;
        padding-left:27px;
 	  width:430px;
-	font-family: Arial;
+	  float:left
+	font-family:Arial;
 	color:#333333;
 font-size: 14px;
 font-style: italic;
@@ -255,80 +279,92 @@ font-weight: 400;
 line-height: 18px;
 text-align: left;}
 
-.imgB{margin-top:35px;
-	margin-left:50px;
-	float:left;
-		    }
-			
-			
-			
-.pcA{margin:0px;
-      
-	
-	width:583px;
-            height:121px;
-position:relative;
-		    left:95px;
-			outline:1px solid black;
-font-family: Arial;
-color:  #333333;
-font-size: 14px;
-font-style: italic;
-line-height: 18px;
-text-align:justify;
-}
-.ytr{position:relative;
-		    left:0px;
-			outline:1px solid black;
-font-family: Arial;
-color:  #333333;
-font-size: 14px;
-font-style: italic;
-line-height: 18px;
-text-align:justify;}
 
-/*.cur{
-	position:relative;
-	     top:-45px;
-	      left:165px;
-	font-family: Arial;
-color:  #989898;
+.blockfa{
+	background:#fff;
+	outline:1px solid black;
+width: 1280px;
+height: 656px;
+
+}			
+        .posit{margin:0px auto;
+		     width:1050px;  }
+
+
+
+	.fa_blockA{margin-left:45px;
+	 padding-left:4px;
+		display:inline-block;
+		width: 300px;
+        height: 306px;
+		position:relative;
+		  top:213px;
+		float:left;
+		border-top-left-radius:5px; 
+		border-top-right-radius:5px; 
+		border-bottom-left-radius:5px;
+		border-bottom-right-radius:5px;
+		background:#425062;
+		
+	}		
+			.fa_blockB{
+				margin-left:45px;
+				 padding-left:4px;
+				display:inline-block;
+		width: 300px;
+         height: 404px;
+		 position:relative;
+		  top:115px;
+		 float:left;
+		 border-top-left-radius:5px; 
+		border-top-right-radius:5px; 
+		border-bottom-left-radius:5px;
+		border-bottom-right-radius:5px;
+		background:#425062;
+		
+	}	
+     		.fa_blockC{margin-left:45px;
+			           padding-left:4px;
+				display:inline-block;
+		width: 300px;
+          height: 499px;
+		  position:relative;
+		  top:20px;
+		   float:left;
+		   border-top-left-radius:5px; 
+		border-top-right-radius:5px; 
+		border-bottom-left-radius:5px;
+		border-bottom-right-radius:5px;
+		background:#425062;
+		
+	}	
+
+             .zagL{margin-top:16px;
+				 
+				 
+				 font-family: Arial;
+color:  #ffffff;
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+text-align:center;} 
+                   
+				   .praise{margin-top:17px;
+					   
+						width:295px;
+                          height: 71px;
+						background:#fff;
+						font-family: Arial;
+                  color:#445162;
+                     font-size:40px;
+                      font-weight:400;
+                        line-height:65px;
+                             text-align:center;}
+                   .spisc{margin-top:19px;
+				         margin-left:20px;
+					   font-family: Arial;
+color:  #ffffff;
 font-size: 14px;
 font-weight: 400;
-line-height: 18px;
-text-align: left;}*/
-
-.setCB{margin-top:25px;
-						margin-left:46px;
-			  position:relative;
-				  display:inline-block;
-				    float:left;
-			        width:760px;}
-
-/*.pcB{background:url(../img/bew.png)no-repeat;
-position:relative;
-		    left:91px;
-			width: 483px;
-            height: 121px;
-font-family: Arial;
-color:  #333333;
-font-size: 14px;
-font-style: italic;
-line-height: 18px;
-text-align: left;
-}
-.cur{
-	position:relative;
-	      left:100px;
-	font-family: Arial;
-color:  #989898;
-font-size: 14px;
-font-weight: 400;
-line-height: 18px;
+line-height: 24px;
 text-align: left;}
-
-
-*/
-
-
-
