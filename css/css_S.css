@@ -2,7 +2,7 @@
   padding:0px;}
   
   html,body{
-  outline:1px solid red;
+
   height:2690px;
    min-height:200px;}
   
@@ -54,7 +54,7 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
             width: 469px;
                 height: 214px;
 				background-color:#ffffff;}
-	.FloatFigure{background:red;}
+	
 	
 	.content{margin:0px auto;}
 .atia{ height:327px;
@@ -289,7 +289,7 @@ text-align: left;}
 
 .blockfa{
 	background:#fff;
-	outline:1px solid black;
+	
 	  display:block;
 width: 1280px;
 height: 726px;
@@ -299,7 +299,7 @@ height: 726px;
 		     width:1050px; 
            height: 656px;
              	   
-outline:1px solid red;		   }
+		   }
 
 
 
@@ -461,8 +461,10 @@ text-align: left;}
 .clrb{height:50px;}
 
 .foot{margin:0px auto;
-	outline:1px solid black;
-height:530px;
+	
+	width:1280px;
+height:520px;
+  float:left;
 background-color:#425062;
 
 }
@@ -476,11 +478,15 @@ background-color:#425062;
             font-weight: 400;
               line-height: 36px;
                 text-align:center;}
-				
-		.forma{position:relative;
-		        margin-top:31px;
-		margin-left:250px;
-		width: 600px;}
+			
+       			
+		.forma{margin-top:31px;
+			padding-left:249px;
+			padding-right:44px;
+			display:inline-block;
+		         float:left;
+		      width:500px; 
+		}
 			
 			input {margin-bottom:21px;
 				font-size:16px;
@@ -489,9 +495,84 @@ background-color:#425062;
                 width: 500px;
                  height:40px;
                    line-height:25px;}		
-				textarea {border-radius: 5px;
+				textarea {margin-bottom:21px;
+					border-radius: 5px;
                    background-color:  #ffffff;
                       width: 500px;
-                          height: 170px;}
+                          height:170px;}
 				
-				
+				 
+	.bottom{margin-left:190px;
+	        
+		border-radius:5px;
+background-color:#ffffff;
+width: 140px;
+height: 40px;
+font-family: Arial;
+color:  #445162;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+
+    }
+           
+  .adr li {margin-top:5px;
+	position:relative;
+	      top:35px;
+	  display:block;
+            overflow: hidden ;
+			height:42px;
+			}
+			
+			.texa{font-family: Arial;
+color:  #ffffff;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;}
+			
+			.texb{
+font-family: Arial;
+color:  #ffffff;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;}
+			
+	.texc{
+font-family: Arial;
+color:  #ffffff;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;}	
+.texd{
+font-family: Arial;
+color:  #ffffff;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;}	
+
+input[placeholder="Your name"]{font-family: Arial;
+color:  #445162;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;}
+			
+	input[placeholder="Your e-mail"]{font-family: Arial;
+color:  #445162;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;}		
+			
+	input[placeholder="Your message"]	{font-family: Arial;
+color:  #445162;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;}	
+
+fieldset{border:none;}
