@@ -26,7 +26,7 @@ background:#f5f5f5;
 				/*outline:1px solid red;*/}
 	.slog  h2 {margin-top:50px;
 		float:left;
-		font-family:Arial;
+		
 color:#ffffff;
 font-size:38px;
 font-weight:400;
@@ -42,7 +42,7 @@ text-shadow:0px 1px 0px rgba(0, 0, 0, 0.3);
              top:120px;
 			 left:30px;
              }
-	.slog  li{font-family:Arial;
+	.slog  li{
 color:  #ffffff;
 font-size: 20px;
 font-weight: 400;
@@ -67,7 +67,7 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
          margin-left:50px;
 		    width:530px;
 			 
-		  font-family: Arial;
+		 
            color:  #445161;
           font-size:30px;
            font-weight:400;
@@ -80,7 +80,7 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
 			   float:left;
 			   
 			
-		         font-family: Arial;
+		        
                     color:  #333333;
                   font-size: 16px;
                 font-weight: 400;
@@ -88,13 +88,16 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
                    /* text-align:left;*/
 				   
 			                    }
-		.vid{margin-top:49px;
+								
+								
+								
+		#vid{margin-top:49px;
 			margin-right:50px;
 			display:block;		   
-		            width:430px;
+		          width:430px;
                    height:245px;
 				  float:right;
-			background-color:#445161;
+			/*background-color:#445161;*/
                 }						 
 .blocktwo{
 					background:#f5f5f5;
@@ -110,7 +113,7 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
 	    .Shed{
 		/*outline:1px solid black;*/
 		  height:93px;
-		  font-family: Arial;
+		 
            color:  #445161;
           font-size:30px;
            font-weight:400;
@@ -133,7 +136,7 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
 	        left:40px;
 		display:inline-block;
 		float:left;
-		font-family:Arial;
+		
              color:#333333;
             font-size:14px; 
 			font-weight:400;
@@ -218,42 +221,42 @@ text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.3);}
 	.hedA{
 		position:relative;
 		    left:15px;
-font-family: Arial;
-color:  #445161;
-font-size: 24px;
-font-weight: 400;
-line-height: 30px;
-text-align: left;}
+
+				color:  #445161;
+				font-size: 24px;
+				font-weight: 400;
+				line-height: 30px;
+				text-align: left;}
 	.pA{position:relative;
 		    left:15px;
-font-family: Arial;
-color:  #333333;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-text-align:justify;}
-.imgB{
-	margin-left:50px;
-	float:left;
-		    }
-			.imgc{
-	
-margin-left:32px;
-	float:left;
+				
+				color:  #333333;
+				font-size: 16px;
+				font-weight: 400;
+				line-height: 24px;
+				text-align:justify;}
+								.imgB{
+									margin-left:50px;
+									float:left;
+											}
+											.imgc{
+									
+								margin-left:32px;
+									float:left;
 
-		    }
+											}
 
-.setCC{margin-left:16px;
-     
-background:url(../img/bew.png)no-repeat;
+								.setCC{margin-left:16px;
+									 
+								background:url(../img/bew.png)no-repeat;
 
-height: 121px;
-    position:relative;
-	    top:5px;
-float:left;
-			  width:483px;
-					
-}
+								height: 121px;
+									position:relative;
+										top:5px;
+								float:left;
+											  width:483px;
+													
+								}
 
 .setCD{margin-left:16px;
        margin-bottom:24px;
@@ -272,7 +275,7 @@ float:left;
        padding-left:27px;
 	  width:430px;
 	  float:left
-	font-family:Arial;
+	
 	color:#333333;
 font-size: 14px;
 font-style: italic;
@@ -283,7 +286,7 @@ text-align:justify;}
 	position:relative;
 	     top:5px;
 	      left:25px;
-	font-family: Arial;
+	
 color:  #989898;
 font-size: 14px;
 font-weight: 400;
@@ -357,19 +360,19 @@ height:626px;
              .zagL{margin-top:16px;
 				 
 				 
-				 font-family: Arial;
-color:  #ffffff;
-font-size: 24px;
-font-weight: 400;
-line-height: 30px;
-text-align:center;} 
+				
+						color:  #ffffff;
+						font-size: 24px;
+						font-weight: 400;
+						line-height: 30px;
+						text-align:center;} 
                    
 				   .praise{margin-top:17px;
 					   
 						width:295px;
                           height: 71px;
 						background:#fff;
-						font-family: Arial;
+						
                   color:#445162;
                      font-size:40px;
                       font-weight:400;
@@ -378,12 +381,12 @@ text-align:center;}
                    .spisc{margin-top:19px;
 				       
 				         margin-left:30px;
-					   font-family: Arial;
-color:  #ffffff;
-font-size: 14px;
-font-weight: 300;
-line-height: 20px;
-text-align: left;}
+					   
+								color:  #ffffff;
+								font-size: 14px;
+								font-weight: 300;
+								line-height: 20px;
+								text-align: left;}
 
 .boot a{margin:0px auto;
 	margin-top:19px;
@@ -393,7 +396,7 @@ background-color:  #ffffff;
 width: 260px;
 height: 40px;
 
-font-family: Arial;
+
 color:  #445161;
 font-size: 18px;
 font-weight: 700;
@@ -446,16 +449,16 @@ background-color:  #ffffff;
 width: 260px;
 height: 40px;
 
-font-family: Arial;
+
 color:  #445161;
 font-size: 18px;
 font-weight: 700;
 line-height: 38px;
 text-align: center;
-list-style:none;
+
 text-decoration:none;
-list-style:none;
-text-decoration:none;}
+
+}
 
 .bootB a{margin:0px auto;
 	margin-top:37px;
@@ -466,7 +469,7 @@ background-color:  #ffffff;
 width: 260px;
 height: 40px;
 
-font-family: Arial;
+
 color:  #445161;
 font-size: 18px;
 font-weight: 700;
@@ -485,7 +488,7 @@ text-decoration:none;}
  .spiscL{margin-top:19px;
 				       
 				         margin-left:30px;
-					   font-family: Arial;
+					
 color:  #ffffff;
 font-size: 14px;
 font-weight: 400;
@@ -524,7 +527,7 @@ background-color:#425062;
 
 
 .Sheda{padding-top:53px;
-		font-family: Arial;
+		
            color:  #fff;
           font-size: 30px;
             font-weight: 400;
@@ -560,7 +563,7 @@ background-color:#425062;
 background-color:#ffffff;
 width: 140px;
 height: 40px;
-font-family: Arial;
+
 color:  #445162;
 font-size: 16px;
 font-weight: 700;
@@ -579,7 +582,7 @@ line-height: 24px;
 			height:42px;
 			}
 			
-			.texa{font-family: Arial;
+			.texa{
 color:  #ffffff;
 font-size: 16px;
 font-weight: 400;
@@ -587,7 +590,7 @@ line-height: 24px;
 text-align: left;}
 			
 			.texb{
-font-family: Arial;
+
 color:  #ffffff;
 font-size: 16px;
 font-weight: 400;
@@ -595,35 +598,35 @@ line-height: 24px;
 text-align: left;}
 			
 	.texc{
-font-family: Arial;
+
 color:  #ffffff;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 text-align: left;}	
  .tel{
-font-family: Arial;
+
 color:  #ffffff;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 text-align: left;}	
 
-input[placeholder="Your name"]{font-family: Arial;
+input[placeholder="Your name"]{
 color:  #445162;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 text-align: left;}
 			
-	input[placeholder="Your e-mail"]{font-family: Arial;
+	input[placeholder="Your e-mail"]{
 color:  #445162;
 font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 text-align: left;}		
 			
-	input[placeholder="Your message"]	{font-family: Arial;
+	input[placeholder="Your message"]	{
 color:  #445162;
 font-size: 16px;
 font-weight: 400;
@@ -632,3 +635,7 @@ text-align: left;}
 
 fieldset{border:none;}
 
+form input :required
+{
+background-color:lightyellow;
+}
