@@ -1,5 +1,40 @@
-             
-			.header{color:red;} 
-			
-					   
+				body {
+					margin: 0;
+				}
+											.navbar-default .navbar-nav>li>a {
+								color: #f70404;
+							}
+
+							.navbar-default .navbar-nav>li>a {
+								color: #f5f3f3;
+}
 				
+				
+				.grid {
+					width: 1140px;
+					margin: 0 auto;
+					min-height: 100vh;
+					box-shadow: 0 0 10px #000;
+					display: grid;
+					grid-template-rows: minmax(150px, auto) 1fr minmax(200px, auto);
+				}
+
+				.header {
+				background:#290000;
+				}
+				.fonvid{margin:0 auto;
+				        margin-top:20px;
+				          
+						  background:url(../img/rte.png)no-repeat;
+						    width:650px;
+						  height:370px;
+				  }
+				   
+
+				.content {
+					background: #86e271;
+				}
+
+				.footer {
+					background: #56c5ff;
+				}
