@@ -1,6 +1,23 @@
+				*{margin:0px;
+                     padding:0px;}
+				
 				body {
 					margin: 0;
+					 height:100%;
+					background:black;
+					
 				}
+				
+				
+				
+				
+				          .navbar-default {
+							  border:#6E0000;
+							  background:red;
+							  width:1180px;
+						  }
+				
+				
 											.navbar-default .navbar-nav>li>a {
 								color: #f70404;
 							}
@@ -8,12 +25,17 @@
 							.navbar-default .navbar-nav>li>a {
 								color: #f5f3f3;
 }
-				
+				.container{margin:0 auto; 
+
+							max-width:100%;
+								min-width:320px;
+							  min-height:100%;
+				           }
 				
 				.grid {
-					width: 1140px;
+					width: 1180px;
 					margin: 0 auto;
-					min-height: 100vh;
+					min-height:100vh;
 					box-shadow: 0 0 10px #000;
 					display: grid;
 					grid-template-rows: minmax(150px, auto) 1fr minmax(200px, auto);
@@ -24,17 +46,137 @@
 				}
 				.fonvid{margin:0 auto;
 				        margin-top:20px;
-				          
-						  background:url(../img/rte.png)no-repeat;
-						    width:650px;
-						  height:370px;
+				          position:relative;
+						  background:url(../img/ty.png),red no-repeat;
+						    width:1000px;
+						  height:350px;
+						   background-size: contain;
+                           background-blend-mode: multiply;
 				  }
-				   
+				   .log 
+				     { position:absolute;
+                     top:15px;
+					 left:25px;
+					 color:#fff; 
+					 line-height:1px;
+					 text-align:right;
+					   }
+					.slog
+					{margin-top:65px;
+					 margin-right:10%;
+						float:right;
+						 width: 350px;
+						 
+						  color:#fff; 
+					 line-height:20px;
+                     font-size:15px;
+                      font-weight:400;
+						
+						}
+                      .boot a{margin:0px auto;
+											margin-top:14px;
+                                              float:left;
+												  display:block;
+											border-radius: 5px;
+										background-color:#76C38F;
+										width: 190px;
+										height: 40px;
+										color:  #445161;
+										font-size: 18px;
+										font-weight: 400;
+										line-height: 38px;
+										text-align:center;
+										text-decoration:none;
+
+										}
+									.boot a:hover{    
+				                    color:#9c9c9c;
+                           box-shadow: 0px 2px 4.85px 0.15px rgba(33,33,33,0.35);  
+                               }
+										
+															
 
 				.content {
-					background: #86e271;
+					
+					background:#6E0000;
 				}
+				
+				  .grids{
+					 
+					  margin-top:60px;
+				      
+					  display:grid;
+					  grid-template-columns:repeat(auto-fit,1fr);
+					  grid-gap:10px;
+					  grid-auto-flow:column;
+					  
+					  grid-auto-rows:335px;
+				  }
+				  
+				      .grids div{margin:0 auto;
+						  padding-top:20px;
+								
+						  position:relative;
+					              
+					               width: 90%;
+						  background:#fff;
+						  text-align:center;
+						  line-height: 20px;
+						   font-size:16px;
+						  outline:1px solid black;}  
+						  .grids p {margin:0 auto;
+						           padding:10px;
+								   } 
+								   
+								   .hedr h3{margin-top:50px;
+								            margin-left:325px;
+								              width:490px;
+								         color:#fff;
+										 background:#353535;
+								     font-size:38px;
+										font-weight:900;
+										line-height:50px;
+								          text-align:center;             
+										  }
+								   
+								   .gridPic{margin-left:100px;
+								            margin-bottom:50px;
+					 
+					          margin-top:60px;
+				       
+					  display:grid;
+					  grid-template-columns: 200px 200px 200px;
+                      grid-template-rows: 200px 200px;
+
+					  grid-gap:125px;
+					  grid-row-gap:25px;
+					   
+					  
+					  
+				  }
+				                       .gridPic div{outline:3px solid #fff;
+									              width:290px;}
+				           
+						 .gridPic p {margin:0 auto;
+						           padding:10px;
+								    width:290px;
+								   background:#000000;
+								   color:#fff;
+								   text-align:center
+								  
+								   } 		   
 
 				.footer {
-					background: #56c5ff;
+					background:#303030;
 				}
+				
+				.gridFoot h5{color:#fff;}
+				.gridFoot h6{color:#fff;}
+				.gridFoot p{color:#979797;}
+				.gridFoot li{color:#979797;}
+				
+				
+				
+				
+				
+				
