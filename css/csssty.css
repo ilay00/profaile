@@ -110,7 +110,7 @@
 				      
 					  display:grid;
 					  grid-template-columns:repeat(auto-fit,1fr);
-					  grid-gap:10px;
+					  grid-gap:-10px;
 					  grid-auto-flow:column;
 					  
 					  grid-auto-rows:335px;
@@ -134,6 +134,13 @@
 						           padding:10px;
 								   } 
 								   
+								     /*div a:visited:hover{border:1px solid black;}*/
+	/*  div a:last-of-type:after{content: color:red;);*/
+	                             #crow:hover{border:1px solid;black;}
+								   
+								   
+								   
+								   
 								   .hedr h3{margin-top:50px;
 								            margin-left:325px;
 								              width:490px;
@@ -154,7 +161,7 @@
 					  grid-template-columns: 200px 200px 200px;
                       grid-template-rows: 200px 200px;
 
-					  grid-gap:125px;
+					  grid-gap:135px;
 					  grid-row-gap:25px;
 					   
 					  
