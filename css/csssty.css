@@ -93,8 +93,21 @@
 
 										}
 									.boot a:hover{    
-				                    color:#9c9c9c;
-                           box-shadow: 0px 2px 4.85px 0.15px rgba(33,33,33,0.35);  
+				                    margin:0px auto;
+											margin-top:10px;
+											
+                                              float:left;
+												  display:block;
+											border-radius: 5px;
+										background-color:#76C38F;
+										width: 185px;
+										height: 39px;
+										color:  #445161;
+										font-size: 18px;
+										font-weight: 400;
+										line-height: 40px;
+										text-align:center;
+										text-decoration:none; 
                                }
 										
 															
@@ -109,34 +122,41 @@
 					  margin-top:60px;
 				      
 					  display:grid;
-					  grid-template-columns:repeat(auto-fit,1fr);
-					  grid-gap:-10px;
+					  grid-template-columns:repeat(4,1fr);
+					  grid-gap:0px;
 					  grid-auto-flow:column;
-					  
+					   grid-row-gap:25px;
 					  grid-auto-rows:335px;
 				  }
 				  
 				      .grids div{margin:0 auto;
-						  padding-top:20px;
+						  padding-top:15px;
 						  
 								
 						  position:relative;
 					              
-					               width: 90%;
+					               width: 73%;
 						  background:#fff;
 						  text-align:center;
-						  line-height: 20px;
-						   font-size:16px;
-						  outline:1px solid black;}  
+						  }  
 						  
 						  
 						  .grids p {margin:0 auto;
 						           padding:10px;
+								   font-size: 12px;
+									color:#000;
+									text-align: center;
 								   } 
 								   
-								     /*div a:visited:hover{border:1px solid black;}*/
-	/*  div a:last-of-type:after{content: color:red;);*/
-	                             #crow:hover{border:1px solid;black;}
+								   /*  a:visited:hover{outline:1px solid red;}
+	                                a:last-of-type:after{content: 
+	                                           color:red;}*/
+	                            .ds a:hover{padding-top:15px;
+									     outline:2px solid red;
+								             
+											 width: 285px;
+											  
+											  text-decoration:none;}
 								   
 								   
 								   
@@ -158,8 +178,8 @@
 					          margin-top:60px;
 				       
 					  display:grid;
-					  grid-template-columns: 200px 200px 200px;
-                      grid-template-rows: 200px 200px;
+					  grid-template-columns:200px 200px 200px;
+                      grid-template-rows:200px 200px;
 
 					  grid-gap:135px;
 					  grid-row-gap:25px;
@@ -178,6 +198,7 @@
 								   text-align:center
 								  
 								   } 		   
+								
 
 				.gridFoot {
 					padding-top:50px;
@@ -286,9 +307,17 @@
 												line-height: 24px;
 
 													}
-								input[type="submit"]:hover{color:#9c9c9c;
-																		   
-												   box-shadow: 0px 2px 4.85px 0.15px rgba(33,33,33,0.35); }
+								input[type="submit"]:hover{margin-left:10px;
+	                                              width: 90px;
+												height: 32px;
+														border-radius:5px;
+												background-color:#76C38F;
+												
+
+												color:  #445162;
+												font-size: 14px;
+												font-weight: 400;
+												line-height: 24px }
 
 										form input :required
 										{
