@@ -198,11 +198,11 @@
 								  
 								   } 	
                       
-   .gridPic div:hover  img {
+   .gridPic div:hover   {
 
 
        transition-duration: .5s;
-       transform: scale(2.2, 2.2);  
+       transform: scale(1.5, 1.5);  
 					  
                       					  
                       }
