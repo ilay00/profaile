@@ -55,20 +55,20 @@
 	.log 
 	  { position:absolute;
                      top:15px;
-					 left:25px;
-					 color:#fff; 
-					 line-height:1px;
-					 text-align:right;
-					   }
+		 left:25px;
+		color:#fff; 
+	    line-height:1px;
+	   text-align:right;
+			 }
 					
-					.slog
-					{margin-top:65px;
-					 margin-right:10%;
-						float:right;
-						 width: 350px;
+		.slog
+		{margin-top:65px;
+		 margin-right:10%;
+		 float:right;
+		 width: 350px;
 						 
-						  color:#fff; 
-					 line-height:20px;
+		  color:#fff; 
+		 line-height:20px;
                      font-size:15px;
                       font-weight:400;
 						
