@@ -1,0 +1,132 @@
+    *{margin:0px;
+     padding:0px;}
+	 
+	 body {
+					
+	height:100%;
+	background:#000;
+					
+				}
+				
+				
+				
+	.container{margin:0 auto; 
+
+	 width:100%;
+	
+	 min-height:100%;
+				         }	
+   
+	 
+
+	.header {margin:0 auto;
+		width:1240px;
+	    height:208px;
+        background:#81b300;
+	/*outline:3px solid #fff;*/
+				}	
+				
+				
+				
+				
+
+     .backgroundFon{position:relative;
+	         top:2px;
+	        width:1240px;
+	    height:135px;
+		 background:#fff;}
+		 
+		 
+.fonSoc{margin-right:30px;
+			       background:url(../img/cool.png);
+			       width:251px;
+	               height:49px;
+				  float:right;
+		          }
+       /*------------------------------------------------------------------
+      						RESET STYLES
+-------------------------------------------------------------------*/
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a {	
+	display: inline-block;
+	text-decoration: none;
+}
+
+/*------------------------------------------------------------------
+      						SECTION STYLES
+-------------------------------------------------------------------*/
+
+section { position:relative;
+          left:0;
+    /*margin: 50px 0;*/
+	width:251px;
+	height:49px;
+}
+
+section ul {
+	/*text-align: center;*/
+}
+
+section a {
+	padding: 0px;
+    color: black;
+}
+
+section a:not(:first-child) {
+	margin-left: 0px;
+}
+
+section i {
+	vertical-align: middle;
+	transition: color .3s ease-in-out;	
+}
+
+section a:nth-child(1):hover i {
+	color: #3B5998;
+}
+
+section a:nth-child(2):hover i {
+	color: #4099FF;
+}
+
+section a:nth-child(3):hover i {
+	color: #007bb6;
+}
+
+section a:nth-child(4):hover i {
+	color: #ccc;
+}
+
+section a:nth-child(5):hover i {
+	color: steelblue;
+}
+
+.p {
+  text-align: left;
+  margin-top:0px;
+}
+.log{padding-top:5px;
+     padding-left:29px;
+font-family: ﻿Georgia, ﻿Myriad-Roman, ﻿AdobeInvisFont;
+font-size: 46pt;
+color: rgba(51, 51, 51, 255);
+text-align: left;}   
+
+.slog{ padding-left:29px;
+	font-family: ﻿Georgia, ﻿Myriad-Roman, ﻿AdobeInvisFont;
+font-size: 12pt;
+color: rgba(153, 153, 153, 255);
+line-height:5px;
+text-align: left;}
+
+.coru{{position:relative;
+	         top:60px;
+	width:1240px;
+	    height:335px;}
+ @media(min-width:768px)
+.col-sm-offset-3 { }   	   
