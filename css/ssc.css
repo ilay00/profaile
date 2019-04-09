@@ -15,6 +15,7 @@
 	 width:100%;
 	
 	 min-height:100%;
+	
 				         }	
    
 	 
@@ -43,6 +44,16 @@
 	               height:49px;
 				  float:right;
 		          }
+				  
+				  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+					  position:relative;
+	         top:1px;
+    border-color:#e7e7e7;
+    background:#81B300;
+}
+.form-group {
+    margin-bottom: 20px;
+}
        /*------------------------------------------------------------------
       						RESET STYLES
 -------------------------------------------------------------------*/
@@ -61,9 +72,8 @@ a {
       						SECTION STYLES
 -------------------------------------------------------------------*/
 
-section { position:relative;
-          left:0;
-    /*margin: 50px 0;*/
+section { 
+    margin: 50px 0;
 	width:251px;
 	height:49px;
 }
@@ -106,6 +116,10 @@ section a:nth-child(5):hover i {
 	color: steelblue;
 }
 
+
+
+
+
 .p {
   text-align: left;
   margin-top:0px;
@@ -124,9 +138,17 @@ color: rgba(153, 153, 153, 255);
 line-height:5px;
 text-align: left;}
 
-.coru{{position:relative;
-	         top:60px;
-	width:1240px;
+.coru{margin:0 auto;
+    
+	position:relative;
+	         top:5px;
+			 left:5px;
+	width:1020px;
 	    height:335px;}
+		
+	.fonColor{background:#fff;
+	          height:700px;}
+	
+		
  @media(min-width:768px)
 .col-sm-offset-3 { }   	   
