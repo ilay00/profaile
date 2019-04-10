@@ -52,18 +52,18 @@ background:#000;
 	float:right;
 		          }
 				  
-				  h3{font-size: 18pt;
-                     color: rgba(129, 179, 0, 255);
-				     text-align:center;}
+	 h3{font-size: 18pt;
+     color: rgba(129, 179, 0, 255);
+	text-align:center;}
 					 
-					h6{ padding-top:20px;
-					    padding-left:20px;
-						font-size: 13pt;
-                        color: rgba(135, 135, 135, 255);
-                        text-align: left;} 
+	h6{ padding-top:20px;
+	   padding-left:20px;
+		font-size: 13pt;
+       color: rgba(135, 135, 135, 255);
+               text-align: left;} 
 				  
-				  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-					  position:relative;
+ .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+	position:relative;
 	         top:1px;
     border-color:#e7e7e7;
     background:#81B300;
